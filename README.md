@@ -5,3 +5,5 @@ account, put $5-$10 in you account, because each conversation comes at a price. 
 You will also need to import tkinter and OpenAI using this commands in the terminal:
 - pip install tkinter
 - pip install openai
+
+# I WILL NOT MAKE AN EXE FILE BECAUSE IT COSTS ME FOR YOU TO USE THE PROGRAM, I DON'T WANT TO BE BROKE.
